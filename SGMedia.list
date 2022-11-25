@@ -1,4 +1,4 @@
-#Netflix、Disney、泥巴
+#Netflix、Disney、泥巴、Google分析
 # 内容：Netflix
 # 数量：40条
 USER-AGENT,Argo*
@@ -70,3 +70,10 @@ DOMAIN-SUFFIX,js-agent.newrelic.com
 #泥巴视频
 DOMAIN-KEYWORD,mudvod
 DOMAIN-KEYWORD,nivod
+
+#Google分析
+DOMAIN,analyticsmobile-pa.googleapis.com
+DOMAIN,analyticsinsights-pa.googleapis.com
+DOMAIN,analyticsreporting.googleapis.com
+DOMAIN,ssl.google-analytics.com
+DOMAIN,analytics.google.com
